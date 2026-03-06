@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Comprar mandado",
+    "status": "todo",
+    "createdAt": "2026-02-23T23:37:52.915Z",
+    "updatedAt": "2026-03-06T15:36:49.720Z"
+  },
+  {
+    "id": 2,
+    "description": "Aprender Node.js",
+    "status": "in-progress",
+    "createdAt": "2026-02-23T23:38:09.890Z",
+    "updatedAt": "2026-03-06T15:38:04.510Z"
+  },
+  {
+    "id": 3,
+    "description": "Comprar pan",
+    "status": "todo",
+    "createdAt": "2026-03-06T15:33:54.354Z",
+    "updatedAt": "2026-03-06T15:33:54.354Z"
+  }
+]

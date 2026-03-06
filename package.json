@@ -1,0 +1,12 @@
+{
+  "name": "task_tracker",
+  "version": "1.0.0",
+  "description": "Command List used to track and manage your tasks",
+  "license": "ISC",
+  "author": "Alexis Perez",
+  "type": "commonjs",
+  "main": "task-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
